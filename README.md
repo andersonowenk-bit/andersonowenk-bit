@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**andersonowenk-bit/andersonowenk-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Owen, a business analytics and applied AI based in Lindenhurst, Illinois.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I'll build it and ship it.
+
+My main tech stack is Python and SQL for analysis, scikit-learn and dbt on the modeling and pipeline side, and Power BI for reporting.
+
+I'm strongest at turning a messy business question into a measurable one.
+
+**Fun Facts**
+
+* I have a twin sister
+* I'm a Division 1 wrestler
+* HxH is my favorite anime
+* **Hobbies**: gym, beach volleyball, building things
+
+

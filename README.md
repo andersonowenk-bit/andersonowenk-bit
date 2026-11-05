@@ -1,6 +1,6 @@
 Hey there 👋
 
-I'm Owen, a business analytics and applied AI based in Lindenhurst, Illinois.
+I'm Owen, a business analytics and applied AI student based in Lindenhurst, Illinois.
 
 If an idea pops into my head, chances are I'll build it and ship it.
 

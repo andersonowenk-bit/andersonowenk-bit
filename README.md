@@ -1,18 +1,16 @@
-Hey there 👋
+Hey, I'm Owen 👋
 
-I'm Owen, a business analytics and applied AI student based in Lindenhurst, Illinois.
+I'm a sophomore at Sacred Heart University studying Business Analytics and Applied AI, and I wrestle Division 1 there. I split time between Fairfield, CT and Lindenhurst, IL.
 
-If an idea pops into my head, chances are I'll build it and ship it.
+I work mostly in Python and SQL. What's here:
 
-My main tech stack is Python and SQL for analysis, scikit-learn and dbt on the modeling and pipeline side, and Power BI for reporting.
+- [wrestling-data-pipeline](https://github.com/andersonowenk-bit/wrestling-data-pipeline): Elo ratings for D1 wrestling teams from dual results. Early, and the one I care about most.
+- [nfl-airflow-pipeline](https://github.com/andersonowenk-bit/nfl-airflow-pipeline): weekly NFL stats pipeline on Airflow and DuckDB, with data quality checks.
+- [pancreas-tumor-segmentation-3d-unet](https://github.com/andersonowenk-bit/pancreas-tumor-segmentation-3d-unet): 3D U-Net on abdominal CT with PyTorch and MONAI. It finds the pancreas. It does not find tumors yet.
+- [chaos-monkey](https://github.com/andersonowenk-bit/chaos-monkey): kills local processes on purpose to see if a supervisor brings them back.
 
-I'm strongest at turning a messy business question into a measurable one.
-
-**Fun Facts**
+**Fun facts**
 
 * I have a twin sister
-* I'm a Division 1 wrestler
 * HxH is my favorite anime
-* **Hobbies**: gym, beach volleyball, building things
-
-
+* Hobbies: gym, beach volleyball, building things

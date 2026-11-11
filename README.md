@@ -28,7 +28,7 @@
   </picture>
 </p>
 
-### 🧑‍💻 About me
+### About me
 
 I'm a sophomore at Sacred Heart University studying Business Analytics and Applied AI, and I wrestle Division 1 there. I split time between Fairfield, CT and Lindenhurst, IL.
 
@@ -41,13 +41,13 @@ I'm a sophomore at Sacred Heart University studying Business Analytics and Appli
 | [pancreas-tumor-segmentation-3d-unet](https://github.com/andersonowenk-bit/pancreas-tumor-segmentation-3d-unet) | 3D U-Net on abdominal CT. It finds the pancreas. It does not find tumors yet. | PyTorch, MONAI |
 | [chaos-monkey](https://github.com/andersonowenk-bit/chaos-monkey) | Kills local processes on purpose to see if a supervisor brings them back. | Python standard library |
 
-### ✨ Fun facts
+### Fun facts
 
 - I have a twin sister
 - HxH is my favorite anime
 - Hobbies: gym, beach volleyball, building things
 
-### 🌐 Let's connect
+### Let's connect!
 
 <p>
   <a href="https://www.linkedin.com/in/owen-anderson548"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>

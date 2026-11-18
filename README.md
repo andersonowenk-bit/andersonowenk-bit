@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Owen Anderson </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Business+Analytics+%2B+Applied+AI+at+Sacred+Heart;Division+1+wrestler;Python%2C+SQL%2C+and+building+things" alt="Business Analytics and Applied AI at Sacred Heart. Division 1 wrestler. Python, SQL, and building things." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=200&duration=3500&color=58A6FF&center=true&vCenter=true&width=700&lines=Business+Analytics+%2B+Applied+AI+at+Sacred+Heart;Division+1+wrestler;Python%2C+SQL%2C+and+building+things" alt="Business Analytics and Applied AI at Sacred Heart. Division 1 wrestler. Python, SQL, and building things." />
 </p>
 
 <h3 align="center">Languages and Tools</h3>
